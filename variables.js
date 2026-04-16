@@ -1,6 +1,7 @@
 // Declaration
 let username  // Variable named username with no value
 let age = 15
+const rate = 0.5  // A variable who's value is constant and can't be changed later on
 
 // Datatypes
 let name = "Jeff" // String

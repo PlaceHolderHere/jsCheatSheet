@@ -8,6 +8,7 @@ let name = "Jeff" // String
 let height = 180 // Number
 let weight = 50.5 // Number
 let isOverEightteen = false // Boolean
+let nothing = null  // represents nothingness
 
 // Built In Type Functions
 // Boolean() -> returns whether an expression or variable is true
